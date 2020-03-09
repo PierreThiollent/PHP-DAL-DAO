@@ -1,3 +1,5 @@
+Cet exercice a été réalisé lors d'un cours a la [Normandie Web School](https://normandiewebschool.fr/)
+
 # Implémentation d'un DAL/DAO en TDD.
 
 Mise en pratique du développement en TDD.
